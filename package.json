@@ -16,7 +16,7 @@
     "dotenv": "^8.0.0",
     "ejs": "~2.5.7",
     "express": "~4.16.0",
-    "express-fileupload": "^1.1.5",
+    "express-fileupload": "^1.1.9",
     "http-errors": "~1.6.2",
     "jsonwebtoken": "^8.5.1",
     "mongoose": "^5.5.13",
